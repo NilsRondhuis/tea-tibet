@@ -5,7 +5,7 @@ const refs = {
   errorMessageNames: document.querySelectorAll(".form-name-error"),
   errorMessagePhones: document.querySelectorAll(".form-phone-error"),
   btns: document.querySelectorAll(".js_submit"),
-  successSubmit: document.querySelector(".succes-submit"),
+  successSubmit: document.querySelector(".success-submit"),
   errorSubmit: document.querySelector(".error-submit"),
 };
 
